@@ -2,8 +2,17 @@
 	max-height: 350px;
 }
 
-.panel {
-	margin-top: 5px;
+#topcontent .panel {
+	
+}
+
+#topcontent .panel-heading {
+	height: 85px;
+}
+
+#topcontent .panel-body {
+	max-height: 265px;
+	overflow-y: scroll;
 }
 
 .media {
